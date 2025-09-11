@@ -14,7 +14,7 @@ The focus of this module is to establish a solid foundation in **R programming, 
 - Installed and configured **R**, **RStudio**, and **Rtools**.  
 - Created the first structured **R Project environment**.  
 
-### Class Ib – Basic Operations & Project Organization
+### Class Ib – Basic Operations n Project Organization
 - Implemented a **standard project directory structure** (`raw_data/`, `clean_data/`, `scripts/`, `results/`, `plots/`).  
 - Learned **data loading** using absolute and relative paths.  
 - Applied **data type conversions**:
