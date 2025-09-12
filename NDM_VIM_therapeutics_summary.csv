@@ -1,0 +1,7 @@
+Strategy / Drug,Target organisms (NDM/VIM producers),Rationale (mechanistic),Key evidence type (in vitro/in vivo/clinical),Limitations/resistance mechanisms,Dosing/PK-PD notes (to extract),Outcome notes (mortality/clinical cure),Key refs (fill in)
+Aztreonam + Avibactam,,Aztreonam escapes MBLs; Avibactam blocks serine β-lactamases,,,,,
+Cefiderocol,,Siderophore cephalosporin; cell entry via iron transport; stability vs many β-lactamases,,,,,
+Ceftazidime + Avibactam + Aztreonam (triple),,Combine CAZ-AVI with ATM to broaden coverage,,,,,
+Fosfomycin (combo),,Cell-wall precursor inhibitor; synergy potential,,,,,
+Polymyxins (salvage),,Outer-membrane disruption; last-resort,,,,,
+Boronate or next-gen inhibitors (pipeline),,Cross-class inhibition (serine+metallo) under development,,,,,
